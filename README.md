@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andiarbeit12
-- 👀 I’m interested in ... k8s bisch
-- 🌱 I’m currently learning ... k8s bisch
+- 👀 I’m interested in ... k8s
+- 🌱 I’m currently learning ... k8s
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
